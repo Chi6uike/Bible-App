@@ -1,0 +1,6 @@
+{
+  "name": "Bible App",
+  "description": "An offline Bible app with complete scriptures, reading plans, search, verse highlighting, bookmarks, notes, audio read-aloud, and daily devotionals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
